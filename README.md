@@ -8,7 +8,7 @@
 
 
 
-Fajr Jauhar is a cybersecurity enthusiast with expertise in SOC, system and network hardening, exploit development, DFIR, and penetration testing. With experience in Python, C, Java, PHP, Assembly, JavaScript, and Bash, Fajr has a deep understanding of both Linux and Windows administration. Fajr is also ranked in the top 7% of TryHackMe.
+A cybersecurity enthusiast with expertise in SOC, system and network hardening, exploit development, DFIR, and penetration testing. With experience in Python, C, Java, PHP, Assembly, JavaScript, and Bash, as well as proficiency in both Linux and Windows administration, they are ranked in the top 7% of TryHackMe.
 
 <br>
 <p align="center">
