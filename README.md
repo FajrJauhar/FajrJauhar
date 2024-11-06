@@ -1,8 +1,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20Fajr%20Jauhar's%20corner.&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity%20with%20Fajr%20Jauhar&center=true&size=25">
   </a>
 </h1>
+
 
 Fajr Jauhar is a cybersecurity enthusiast with expertise in SOC, system and network hardening, exploit development, DFIR, and penetration testing. With experience in Python, C, Java, PHP, Assembly, JavaScript, and Bash, Fajr has a deep understanding of both Linux and Windows administration. Fajr is also ranked in the top 7% of TryHackMe.
 
