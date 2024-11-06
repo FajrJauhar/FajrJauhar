@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploit%20Development&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22" alt="Exploit Development">
-20Exploit%20Development%20%7C%20Penetration%20Testing&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22" alt="Cybersecurity Expert">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploit%20Development&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22" alt="Exploit Developer">
+
 
   </a>
 </h1>
