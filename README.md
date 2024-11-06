@@ -1,6 +1,26 @@
-🏄‍♂️ Fajr Jauhar
-Cybersecurity Expert | Exploit Developer | Penetration Tester
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploit%20Development&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22" alt="Exploit Development">
+20Exploit%20Development%20%7C%20Penetration%20Testing&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22" alt="Cybersecurity Expert">
 
-I'm a passionate cybersecurity expert working at the intersection of system security, exploit development, and penetration testing. I create tools and solutions from the ground up, aiming to solve real-world cybersecurity challenges. Join me on my journey of exploring and understanding vulnerabilities, developing security techniques, and enhancing defensive measures.
+  </a>
+</h1>
 
-<p align="left"> <a href="https://github.com/FajrJauhar?tab=followers"> <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/FajrJauhar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> <a href="https://github.com/FajrJauhar?tab=repositories&sort=stargazers"> <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/FajrJauhar?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> </p>
+
+
+Fajr Jauhar is a cybersecurity enthusiast with expertise in SOC, system and network hardening, exploit development, DFIR, and penetration testing. With experience in Python, C, Java, PHP, Assembly, JavaScript, and Bash, Fajr has a deep understanding of both Linux and Windows administration. Fajr is also ranked in the top 7% of TryHackMe.
+
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FajrJauhar&show_icons=true&theme=dark" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FajrJauhar&theme=dark&hide_border=true" width="400">
+</p>
+
+## Fajr's Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Exploring System Hardening Techniques](#)
+- [The Basics of Penetration Testing](#)
+- [Building Secure Exploits for Learning](#)
+- [Understanding DFIR: A Hands-On Approach](#)
+- [Incident Response: Best Practices](#)
+<!-- BLOG-POST-LIST:END -->
