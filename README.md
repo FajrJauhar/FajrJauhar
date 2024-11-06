@@ -1,6 +1,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity%20with%20Fajr%20Jauhar&center=true&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity%20Expert%20%7C%20Exploit%20Development%20%7C%20Penetration%20Testing&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22" alt="Cybersecurity Expert">
+
   </a>
 </h1>
 
