@@ -12,8 +12,10 @@ A cybersecurity enthusiast with expertise in SOC, system and network hardening, 
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FajrJauhar&show_icons=true&theme=dark" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FajrJauhar&theme=dark&hide_border=true" width="400">
+ ![My GitHub](https://github-readme-stats.vercel.app/api?username=FajrJauhar&count_private=true&show_icons=true&theme=vue&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FajrJauhar&theme=vue&count_private=true&show_icons=true&layout=compact)
+
 </p>
 
 ## Fajr's Latest Blog Posts
