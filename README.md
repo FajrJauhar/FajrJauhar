@@ -14,7 +14,7 @@ A cybersecurity enthusiast with expertise in SOC, system and network hardening, 
 <p align="center">
  ![My GitHub](https://github-readme-stats.vercel.app/api?username=FajrJauhar&count_private=true&show_icons=true&theme=vue&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FajrJauhar&theme=vue&count_private=true&show_icons=true&layout=compact)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=FajrJauhar&theme=vue&count_private=true&show_icons=true&layout=compact)
 
 </p>
 
