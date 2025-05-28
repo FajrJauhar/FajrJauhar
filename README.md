@@ -4,20 +4,16 @@
   </a>
 </h1>
 
-A cybersecurity enthusiast with expertise in SOC, system and network hardening, exploit development, DFIR, and penetration testing. With experience in Python, C, Java, PHP, Assembly, JavaScript, and Bash, as well as proficiency in both Linux and Windows administration, they are ranked in the top 7% of TryHackMe.
+I am a cybersecurity practitioner focused on pentesting, SOC operations, and exploit development.
+Ranked in the top 7% on TryHackMe, with skills spanning reverse engineering to threat detection.
+Fluent in C, Python, Bash, and more — crafting custom tools and low-level exploits.
+Driven to bridge offense and defense, pushing boundaries in real-world security
 
 <br>
 <p align="center">
 </p>
 
-## Fajr's Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Exploring System Hardening Techniques](#)
-- [The Basics of Penetration Testing](#)
-- [Building Secure Exploits for Learning](#)
-- [Understanding DFIR: A Hands-On Approach](#)
-- [Incident Response: Best Practices](#)
-<!-- BLOG-POST-LIST:END -->
+
 
 ### My GitHub Stats:
 ![My GitHub](https://github-readme-stats.vercel.app/api?username=FajrJauhar&count_private=true&show_icons=true&theme=vue&include_all_commits=true)
