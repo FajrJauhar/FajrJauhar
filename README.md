@@ -15,8 +15,7 @@ Driven to bridge offense and defense, pushing boundaries in real-world security
 
 
 
-### My GitHub Stats:
-![My GitHub](https://github-readme-stats.vercel.app/api?username=FajrJauhar&count_private=true&show_icons=true&theme=vue&include_all_commits=true)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FajrJauhar&theme=vue&count_private=true&show_icons=true&layout=compact)
 
