@@ -15,8 +15,13 @@ Driven to bridge offense and defense, pushing boundaries in real-world security
 
 ## ️🛠️ Some Tools and Tech I use
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,linux,bash,cmd,vscode,html,js,php,git,github,kali,powershell,nmap,docker&perline=9)](https://skillicons.dev)
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,bash,cmd,vscode,html,js,php,git,github,kali,powershell,nmap,docker&perline=9" />
+  </a>
+</p>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FajrJauhar&theme=vue&count_private=true&show_icons=true&layout=compact)
