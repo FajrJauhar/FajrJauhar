@@ -13,12 +13,9 @@ Driven to bridge offense and defense, pushing boundaries in real-world security
 <p align="center">
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,bash,cmd&perline=7" />
-  </a>
-</p>
+## ️🛠️ Some Tools and Tech I use
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,linux,bash,cmd,vscode,html,js,php,git,github,kali,powershell,nmap,docker&perline=9)](https://skillicons.dev)
 
 
 
