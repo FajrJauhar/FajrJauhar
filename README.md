@@ -21,7 +21,7 @@ Driven to bridge offense and defense, pushing boundaries in real-world security
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,bash,cmd,vscode,html,js,php,github,kali,powershell,shell,sqlite&perline=9" />
 <br />
-<img src="https://skillicons.dev/icons?i=js,php,github,kali,powershell,nmap,burpsuite,wireshark,metasploit,sqlite&perline=9" />
+
 
 
   </a>
