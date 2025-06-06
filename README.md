@@ -5,7 +5,7 @@
 </h1>
 
 I am a cybersecurity practitioner focused on pentesting, SOC operations, and exploit development.
-Ranked in the top 7% on TryHackMe, with skills spanning reverse engineering to threat detection.
+Ranked in the top 7% on TryHackMe, with skills spanning reverse engineering(x86 arch_linux) to threat detection.
 Fluent in C, C++, Python, Bash, and more — crafting custom tools and low-level exploits.
 Driven to bridge offense and defense, pushing boundaries in real-world security
 
