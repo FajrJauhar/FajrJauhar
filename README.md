@@ -19,7 +19,7 @@ Driven to bridge offense and defense, pushing boundaries in real-world security
 
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,bash,vscode,html,css,js,php,mongodb,nextjs,react,express,nodegithub,kali,powershell,mysql,ubuntu,windows,flask,linkedin,notion&perline=6" />
+   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,bash,vscode,html,css,js,php,mongodb,react,express,nodejs,github,kali,powershell,mysql,ubuntu,windows,flask,linkedin,notion&perline=6" />
 <br />
 
 
